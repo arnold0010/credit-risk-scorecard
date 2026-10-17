@@ -2,7 +2,7 @@
 
 An end-to-end credit risk project: a points-based **scorecard** (WoE + logistic regression), an **XGBoost challenger**, **SHAP** explanations, an **expected-loss and cutoff-optimisation** layer, and a **Streamlit** app that scores a single applicant.
 
-**Live app:** _add your Streamlit link here_
+**Live app:** https://credit-risk-scorecard-wt3zieaxus5ghvf7lueyqr.streamlit.app/
 
 ## Business problem
 
