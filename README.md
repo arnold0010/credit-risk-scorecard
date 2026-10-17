@@ -85,7 +85,7 @@ Needs `scorecard_artifacts.joblib` (saved by the notebook) in the same folder as
 
 ## Files
 
-- `notebook.ipynb` - full analysis
+- `scorecard.ipynb` - full analysis
 - `app.py` - Streamlit scoring app
 - `scorecard_artifacts.joblib` - trained models, cleaning rules and WoE tables
 - `requirements.txt` - dependencies
